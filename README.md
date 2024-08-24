@@ -1,6 +1,11 @@
-# Weather App
+# Weather App 🌦️
 
-This is a simple weather app that provides current weather information for different locations.
+![GitHub stars](https://img.shields.io/github/stars/ajaykumar-dev-07/weather-app)
+![GitHub forks](https://img.shields.io/github/forks/ajaykumar-dev-07/weather-app)
+![GitHub issues](https://img.shields.io/github/issues/ajaykumar-dev-07/weather-app)
+![GitHub license](https://img.shields.io/github/license/ajaykumar-dev-07/weather-app)
+
+A simple weather app that provides current weather information for different locations.
 
 ## Features
 
